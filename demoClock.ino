@@ -1,6 +1,6 @@
 /*
 
-  demoClock.ino
+  demoClock.ino with ESP32
   
   
 */
